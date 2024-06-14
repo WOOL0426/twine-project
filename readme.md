@@ -14,6 +14,6 @@
 ![image](imgs/Girl-Day4.jpg)
 ![image](imgs/Girl-Day5.jpg)
 
-![sound](sound/)
+![sound](sounds/)
 
-![video](video/)
+![video](videos/)
