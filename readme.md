@@ -4,7 +4,7 @@
 ![image](imgs/host.jpg)
 ![image](imgs/Boy-Day1.jpg)
 ![image](imgs/Girl-Day1.jpg)
-![image](imgs/Girl-target.jpg)
+![image](imgs/Girl-target2.jpg)
 ![image](imgs/Boy-Day2.jpg)
 ![image](imgs/Boy-Day3.jpg)
 ![image](imgs/Boy-Day4.jpg)
