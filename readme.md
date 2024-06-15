@@ -13,6 +13,7 @@
 ![image](imgs/Girl-Day3.jpg)
 ![image](imgs/Girl-Day4.jpg)
 ![image](imgs/Girl-Day5.jpg)
+![image](imgs/Girl-Day6.jpg)
 
 ![sound](sounds/)
 
