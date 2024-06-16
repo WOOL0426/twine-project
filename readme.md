@@ -17,6 +17,6 @@
 ![image](imgs/GOODEND.jpg)
 ![image](imgs/BADEND.jpg)
 
-![sound](sounds/)
+![sound](sounds/Introduction.mp3)
 
 ![video](videos/)
