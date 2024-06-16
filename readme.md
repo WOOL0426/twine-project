@@ -1,4 +1,5 @@
 ![image](imgs/Cover2.jpg)
+![image](imgs/Camera.jpg)
 
 ![image](imgs/Boy-target.jpg)
 ![image](imgs/host.jpg)
