@@ -18,5 +18,6 @@
 ![image](imgs/BADEND.jpg)
 
 ![sound](sounds/day1.mp3)
+![sound](sounds/Introduction.mp3)
 
 ![video](videos/)
