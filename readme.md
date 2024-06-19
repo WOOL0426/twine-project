@@ -21,4 +21,8 @@
 ![sound](sounds/day1.mp3)
 ![sound](sounds/Introduction.mp3)
 
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day1.mp3"> </source>
+</audio>
+
 ![video](videos/)
