@@ -1,3 +1,39 @@
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/Introduction.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day1.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day2.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day3.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day4.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day5.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/day6.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/goodending2.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/badending.mp3"> </source>
+</audio>
+
 ![image](imgs/Cover2.jpg)
 ![image](imgs/Camera.jpg)
 
@@ -17,12 +53,5 @@
 ![image](imgs/Girl-Day6.jpg)
 ![image](imgs/GOODEND.jpg)
 ![image](imgs/BADEND.jpg)
-
-![sound](sounds/day1.mp3)
-![sound](sounds/Introduction.mp3)
-
-<audio controls="controls">
-  <source type="audio/mp3" src="sounds/day1.mp3"> </source>
-</audio>
 
 ![video](videos/)
