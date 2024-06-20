@@ -23,7 +23,15 @@
 </audio>
 
 <audio controls="controls">
+  <source type="audio/mp3" src="sounds/Girl-Day1.mp3"> </source>
+</audio>
+
+<audio controls="controls">
   <source type="audio/mp3" src="sounds/day2.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/Girl-Day2.mp3"> </source>
 </audio>
 
 <audio controls="controls">
@@ -31,7 +39,15 @@
 </audio>
 
 <audio controls="controls">
+  <source type="audio/mp3" src="sounds/Girl-Day3.mp3"> </source>
+</audio>
+
+<audio controls="controls">
   <source type="audio/mp3" src="sounds/day4.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/Girl-Day4.mp3"> </source>
 </audio>
 
 <audio controls="controls">
@@ -39,7 +55,15 @@
 </audio>
 
 <audio controls="controls">
+  <source type="audio/mp3" src="sounds/Girl-Day5.mp3"> </source>
+</audio>
+
+<audio controls="controls">
   <source type="audio/mp3" src="sounds/day6.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/Girl-Day6.mp3"> </source>
 </audio>
 
 <audio controls="controls">
