@@ -3,6 +3,22 @@
 </audio>
 
 <audio controls="controls">
+  <source type="audio/mp3" src="sounds/Target1.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/Target2.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/Requre.mp3"> </source>
+</audio>
+
+<audio controls="controls">
+  <source type="audio/mp3" src="sounds/continue.mp3"> </source>
+</audio>
+
+<audio controls="controls">
   <source type="audio/mp3" src="sounds/day1.mp3"> </source>
 </audio>
 
